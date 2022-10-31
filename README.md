@@ -22,10 +22,10 @@ Para crear el topic donde almacena el producer se corre el siguiente comando:
  --replication-factor 1 --partitions 1 --topic java-topic 
 ```
 Para crear el topic donde almacena el stream y lee el consumer
-´´´
+```
 ./bin/kafka-topics.sh --create --zookeeper "zookeeper:2181" \
  --replication-factor 1 --partitions 1 --topic java-topic-output 
-´´´
+```
 
 Si se quieren listar los topics creados en el cluster: 
 ```
