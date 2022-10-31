@@ -27,8 +27,8 @@ Si se quieren listar los topics creados en el cluster:
 ```
 
 
-## Autores 💭
-* **Gaspar Budó Berra**
-* **Bruno Squillari**
-* **Facundo Zimbimbakis**
-* **Santiago Hadad**
+## Bibliografia
+Codigo de consumer y producer extraido de:
+https://www.youtube.com/watch?v=NpzwlWYLOdE&list=PLa6iDxjj_9qVGTh3jia-DAnlQj9N-VLGp&index=14
+Codigo de stream basado en:
+https://kafka.apache.org/33/documentation/streams/
